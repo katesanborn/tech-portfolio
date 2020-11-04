@@ -16,4 +16,4 @@ or even embed images with the following Markdown:
 ---
 AirFlute: A Virtual Flute and Tutoring System
 
-[Video Presentation](https://www.youtube.com/watch?v=nJ5HKG6dJSw)
+[![AirFlute: A Virtual Flute and Tutoring System](http://img.youtube.com/vi/nJ5HKG6dJSw/0.jpg)](http://www.youtube.com/watch?v=nJ5HKG6dJSw "AirFlute: A Virtual Flute and Tutoring System")
